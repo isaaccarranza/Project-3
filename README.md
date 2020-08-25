@@ -3,8 +3,7 @@ Final Project for UCI
 
 Team Members:
 1) Adrian Llamas
-2) Andrea Rosenberger
-3) Isaac Carranza
-4) Helma Zecena
-5) Jungje Son
-6) Reggie Pelz
+2) Isaac Carranza
+3) Helma Zecena
+4) Jungje Son
+5) Reggie Pelz
